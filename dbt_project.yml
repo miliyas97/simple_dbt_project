@@ -1,7 +1,7 @@
 name: "tutorial"
 version: "1.0.0"
 
-profile: "tutorial"
+profile: "mysnowflake"
 
 source-paths: ["models"]
 analysis-paths: ["analysis"]
